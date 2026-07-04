@@ -19,6 +19,16 @@ This project analyzes employee attrition using SQL, Excel, and Power BI to ident
 
 ## Dataset
 IBM HR Analytics Employee Attrition Dataset
+## Dashboard Preview
+
+### Overview
+![Overview](screenshots/dashboard-overview.png)
+
+### Department Analysis
+![Department Analysis](screenshots/department-analysis.png)
+
+### KPI Dashboard
+![KPI Dashboard](screenshots/attrition-kpis.png)
 
 ## Author
 Nida Tabassum
